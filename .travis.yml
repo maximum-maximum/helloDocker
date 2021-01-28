@@ -20,5 +20,5 @@ deploy:
   on:
     branch: master
 
-  skip_cleanup: true
-  skip_existing: true
+  # skip_cleanup: true
+  # skip_existing: true
